@@ -90,15 +90,19 @@
     .add-to-cart {
         margin-right: 20px;
     }
-    .attribution {
-    
-    }
     footer { 
         font-size: 0.8rem; text-align: center; 
     }
     footer a { 
         color: hsl(228, 45%, 44%); 
     }
+    .attribution  { 
+        font-size: 11px; 
+        text-align: center; 
+        }
+    .attribution a { 
+        color: hsl(228, 45%, 44%); 
+        }
     @media screen and (max-width: 800px){
         main {
             display: flex;
